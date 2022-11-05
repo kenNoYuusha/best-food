@@ -1,0 +1,12 @@
+/* -----  minwidth 1024px  ----------*/
+
+.hero {
+    padding: 20px 80px;
+  }
+  .services__dishes-list {
+    padding: 20px 80px;
+  }
+  .home-menu__dishes-list {
+    padding: 20px 80px;
+    grid-template-columns: repeat(auto-fit, minmax(156px, 1fr));
+  }
